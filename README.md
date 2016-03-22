@@ -1,2 +1,2 @@
 # SchuleBootstrap
-Web Projekt in zusammen arbeit mit Polnischer Schule
+Web Projekt in Zusammenarbeit mit Polnischer Schule
